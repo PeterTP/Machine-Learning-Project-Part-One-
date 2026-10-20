@@ -1,0 +1,8 @@
+dataset,rows,predictor_columns,target_unique,missing_values
+Iris,150,4,3,0
+Wine,178,13,3,0
+Breast Cancer Wisconsin (Diagnostic),569,30,2,0
+Optical Digits (scikit-learn subset),1797,64,10,0
+Glass2,163,9,2,0
+Chess KR-vs-KP,3196,36,2,0
+Zoo,101,16,7,0
